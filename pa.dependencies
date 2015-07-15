@@ -25,6 +25,12 @@
     },
     {
         "remote":      "github",
+        "repository":  "Hima-Dev/android_external_libnfc-nci",
+        "target_path": "external/libnfc-nci",
+        "revision":    "cm-12.1"
+    },
+    {
+        "remote":      "github",
         "repository":  "CyanogenMod/android_hardware_qcom_fm",
         "target_path": "hardware/qcom/fm",
         "revision":    "cm-12.1"

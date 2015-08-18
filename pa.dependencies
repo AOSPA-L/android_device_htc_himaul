@@ -36,9 +36,9 @@
         "revision":    "cm-12.1"
     },
     {
-        "remote":      "blobs",
-        "repository":  "proprietary_vendor_htc",
+        "remote":      "github",
+        "repository":  "Hima-Dev/proprietary_vendor_htc",
         "target_path": "vendor/htc",
-        "revision":    "cm-12.1"
+        "revision":    "htc-rebase"
     }
 ]
